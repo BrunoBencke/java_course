@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reconciliation account="0001-1">
+    <entry date="05/08/2026" type="CREDIT" amount="150.00"/>
+    <entry date="06/08/2026" type="DEBIT" amount="40.00"/>
+    <entry date="07/08/2026" type="FEE" amount="3.00"/>
+    <total>107.00</total>
+    <signature>MDAwMS0xfDEwNy4wMHwz</signature>
+</reconciliation>

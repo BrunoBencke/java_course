@@ -1,0 +1,14 @@
+# Build and measurement outputs
+target/
+*.jfr
+gc-*.log
+hs_err_pid*.log
+
+# IDEs and OS
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
